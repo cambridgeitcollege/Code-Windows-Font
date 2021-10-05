@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]
+"Segoe UI Black(TrueType)"="segoeui.tff"
+"Segoe UI Black Italic(TrueType)"="seguibl.tff"
+"Segoe UI Bold(TrueType)"="segoeuib.tff"
+"Segoe UI Bold Italic(TrueType)"="segoeuiz.tff"
+"Segoe UI Emoji(TrueType)"="seguiemj.tff"
+"Segoe UI Historic(TrueType)"="seguihis.tff"
+"Segoe UI Italic(TrueType)"="segoeuii.tff"
+"Segoe UI Light(TrueType)"="segoeuil.tff"
+"Segoe UI Light Italic(TrueType)"="seguili.tff"
+"Segoe UI Semibold(TrueType)"="seguisb.tff"
+"Segoe UI Semibold Italic(TrueType)"="seguisbi.tff"
+"Segoe UI Semilight (TrueType)"="segoeuisl.tff"
+"Segoe UI Semilight Italic(TrueType)"="seguisli.tff"
+"Segoe UI symbol (TrueType)"="seguisym.tff"
+"Segoe MDL2 Assets (TrueType)"="segmdl2.tff"
+"Segoe Print (TrueType)"="segoepr.tff"
+"Segoe Print Bold (TrueType)"="segoeprb.tff"
+"Segoe Script (TrueType)"="segoesc.tff"
+"Segoe Script Bold (TrueType)"="segoescb.tff"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+"Segoe UI"=-
